@@ -2,4 +2,4 @@
 El juego esta hecho con código Java
 
 Integrantes: Fidel Cartes 
-             Hugo Concha
+           ; Hugo Concha
